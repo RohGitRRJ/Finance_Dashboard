@@ -264,14 +264,3 @@ When testing the dashboard:
 - [ ] All links and buttons are clickable
 - [ ] No console errors
 
-## License
-
-This project is created for educational purposes as part of a Frontend Developer Internship assignment.
-
-## Support
-
-For questions or issues, refer to the component code which includes inline comments explaining the logic. Each component is designed to be self-contained and easy to understand.
-
----
-
-**Happy dashboard building! 📊💡**
